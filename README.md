@@ -1,5 +1,7 @@
 # Supervised Concept Drift Detection for Student Performance Prediction using ADWIN
 
+📄 Full Report: [project_report.pdf](report/project_report.pdf)
+
 ## Overview
 This project implements an adaptive machine learning system capable of detecting concept drift and automatically retraining a predictive model to maintain accuracy over time.
 
