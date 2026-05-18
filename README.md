@@ -41,14 +41,10 @@ This demonstrates that predictive accuracy is time-dependent and adaptive learni
 
 ## Sample Output
 
-## Sample Output
 
-![Accuracy Drift Plot](figures/accuracy_drift_plot.png)
-
-![Maths Accuracy Comparison](figures/maths_accuracy_comparison.png)
-
-![Portuguese Accuracy Comparison](figures/portuguese_accuracy_comparison.png)
-
+![Accuracy Drift Plot](student-performance-concept-drift/figures/accuracy_drift_plot.png)
+![Maths Accuracy Comparison](student-performance-concept-drift/figures/maths_accuracy_comparison.png)
+![Portuguese Accuracy Comparison](student-performance-concept-drift/figures/portuguese_accuracy_comparison.png)
 
 ## Development Context
 
