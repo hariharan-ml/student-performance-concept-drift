@@ -38,10 +38,12 @@ The system exhibited three distinct phases:
 
 This demonstrates that predictive accuracy is time-dependent and adaptive learning is necessary for real-world deployment.
 
+
 ## Sample Output
 
-![Accuracy Comparison](figures/maths_accuracy_comparison.png)
-![Drift Detection](figures/accuracy_drift_plot.png)
+![Maths Accuracy Comparison](figures/maths_accuracy_comparison.png)
+![Portuguese Accuracy Comparison](figures/portuguese_accuracy_comparison.png)
+![Accuracy Drift Plot](figures/accuracy_drift_plot.png)
 
 
 ## Development Context
