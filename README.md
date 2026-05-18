@@ -1,5 +1,7 @@
 # Supervised Concept Drift Detection for Student Performance Prediction using ADWIN
 
+Independent Machine Learning Research Project
+
 📄 Full Report: [Drift Detection Project Report.pdf](report/Drift%20Detection%20Project%20Report.pdf)
 
 ## Overview
